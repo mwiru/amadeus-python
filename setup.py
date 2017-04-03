@@ -32,9 +32,9 @@ setup(
     version='0.1.1',
     description="Python Package for Amadeus",
     long_description=readme + '\n\n' + history,
-    author="Ardy Dedase",
-    author_email='ardy.dedase@gmail.com',
-    url='https://github.com/ardydedase/amadeus-python',
+    author="Nelson Mwiru",
+    author_email='nelsonmwirumubi@gmail.com',
+    url='https://github.com/mwiru/amadeus-python',
     packages=[
         'amadeus',
     ],
